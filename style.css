@@ -20,18 +20,18 @@
     font-size: 1.2rem;
 }
 
-.fa-google {
-    color: #EA4335;
+.contact-card .fa-google {
+    color: #EA4335 !important;
 }
 
-.fa-microsoft {
-    color: #0078D4;
+.contact-card .fa-microsoft {
+    color: #0078D4 !important;
 }
 
-.fa-instagram {
-    color: #E4405F;
+.contact-card .fa-instagram {
+    color: #E4405F !important;
 }
 
-.fa-linkedin {
-    color: #0A66C2;
+.contact-card .fa-linkedin {
+    color: #0A66C2 !important;
 }
